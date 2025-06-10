@@ -1,7 +1,9 @@
+![Banner](./Banner.png)
+
 <h1 align="center">Olá, eu sou o Daniell! 👋</h1>
 
 <p align="center">
-  🖥️ Desenvolvedor & Entusiasta da Tecnologia <br/>
+  🖥️ Desenvolvedor, WebDesigner & Entusiasta da Tecnologia <br/>
   📍 Martinho Campos - MG | 🇧🇷 Brasil
 </p>
 
@@ -9,13 +11,16 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Tenho 21 anos e sou formado em **Análise e Desenvolvimento de Sistemas**.  
-🧠 Sou apaixonado por tecnologia e inovação, sempre buscando novos aprendizados.  
+🎓 Tenho 21 anos e sou formado em **Análise e Desenvolvimento de Sistemas** e **Web Design** pela Origamid.  
+🧠 Sou apaixonado por tecnologia, design e inovação, sempre buscando novos aprendizados.  
 🔧 Tenho experiência com:
 - Análise e monitoramento de redes
 - Desenvolvimento em **Python**
-- **Aplicativos Mobile**  
-⚙️ Amo criar automações para facilitar o dia a dia.  
+- **Aplicativos Mobile**
+- Design gráfico e web design com ferramentas como **Photoshop**, **CorelDraw** e **Canva**  
+⚙️ Gosto de automações como Power BI, sou fã de I.As e estou em constante aprendizado.  
+💻 Também tenho interesse em **C#**.  
+🛒 Experiência com sites e-commerce e comunicação empresarial.  
 🤝 Estou sempre aberto para colaborar com outros devs e projetos!
 
 ---
@@ -29,28 +34,5 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WebSun-DEV&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebSun-DEV&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 📫 Onde me encontrar
-
-<p align="left">
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/daniellvithor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Discord-mineirox.%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WebSun-DEV&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Photoshop](https://img.shields.io/badge/
