@@ -5,14 +5,14 @@
 <h3 align="center">Desenvolvedor | Web Designer | Entusiasta de Tecnologia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=📍+Martinho+Campos+-+MG+%7C+🇧🇷+Brasil;🎓+Formado+em+Análise+e+Desenvolvimento;🎨+Web+Designer+Certificado" alt="Typing animation" />
+  📍 Martinho Campos - MG | 🇧🇷 Brasil<br>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+  🎨 Certificado em Web Design pela Origamid
 </p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
-
-![gif](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif) <!-- GIF de tecnologia futurista -->
 
 - 🧠 21 anos, apaixonado por tecnologia, design e inovação
 - 🔍 Experiência em análise e monitoramento de redes
@@ -24,7 +24,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![gif](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif) <!-- GIF de códigos digitando -->
+https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 
 ### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,8 +52,6 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150"> <!-- Octocat do GitHub -->
-  
   <a href="https://github.com/WebSun-DEV">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WebSun-DEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebSun-DEV&layout=compact&langs_count=7&theme=dracula&hide=procfile"/>
@@ -65,9 +63,6 @@
 ## 📫 Contato
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KB8C5YOJmxQmXZqee3/giphy.gif" width="200"> <!-- GIF de redes sociais -->
-  
-  <br>
   <a href="https://www.linkedin.com/in/daniellvithor" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
