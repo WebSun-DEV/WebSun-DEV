@@ -24,7 +24,8 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
+![gif](https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp)
+
 
 ### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
