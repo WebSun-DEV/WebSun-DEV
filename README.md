@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+![Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 <h1 align="center">Olá, eu sou o Daniell! 👋</h1>
 
@@ -17,7 +17,7 @@
 - Análise e monitoramento de redes
 - Desenvolvimento em **Python**
 - **Aplicativos Mobile**
-- Design gráfico e web design com ferramentas como **Photoshop**, **CorelDraw** e **Canva**  
+- Design gráfico e web design com ferramentas como **CorelDraw** e **Canva**  
 ⚙️ Gosto de automações como Power BI, sou fã de I.As e estou em constante aprendizado.  
 💻 Também tenho interesse em **C#**.  
 🛒 Experiência com sites e-commerce e comunicação empresarial.  
@@ -35,4 +35,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/
+![CorelDraw](https://img.shields.io/badge/CorelDraw-FF7F00?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi
