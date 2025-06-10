@@ -2,33 +2,67 @@
 
 <h1 align="center">Olá, eu sou o Daniell! 👋</h1>
 
+<h3 align="center">Desenvolvedor | Web Designer | Entusiasta de Tecnologia</h3>
+
 <p align="center">
-  🖥️ Desenvolvedor, WebDesigner & Entusiasta da Tecnologia <br/>
-  📍 Martinho Campos - MG | 🇧🇷 Brasil
+  📍 Martinho Campos - MG | 🇧🇷 Brasil<br>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+  🎨 Certificado em Web Design pela Origamid
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-🎓 Tenho 21 anos e sou formado em **Análise e Desenvolvimento de Sistemas** e **Web Design** pela Origamid.  
-🧠 Sou apaixonado por tecnologia, design e inovação, sempre buscando novos aprendizados.  
-🔧 Tenho experiência com:
-- Análise e monitoramento de redes
-- Desenvolvimento em **Python**
-- **Aplicativos Mobile**
-- Design gráfico e web design com ferramentas como **Photoshop**, **CorelDraw** e **Canva**  
-⚙️ Gosto de automações como Power BI, sou fã de I.As e estou em constante aprendizado.  
-💻 Também tenho interesse em **C#**.  
-🛒 Experiência com sites e-commerce e comunicação empresarial.  
-🤝 Estou sempre aberto para colaborar com outros devs e projetos!
+- 🧠 21 anos, apaixonado por tecnologia, design e inovação
+- 🔍 Experiência em análise e monitoramento de redes
+- 🛒 Desenvolvimento de e-commerce e comunicação empresarial
+- ⚙️ Fã de automações, Power BI e inteligência artificial
+- 🤝 Aberto para colaborações e projetos inovadores
 
 ---
 
-## 🚀 Tecnologias que uso e estudo
+## 🛠️ Habilidades Técnicas
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 👨‍💻 Linguagens & Desenvolvimento
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 Design & Ferramentas
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-FF6600?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/mineirox">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
