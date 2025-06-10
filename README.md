@@ -5,14 +5,14 @@
 <h3 align="center">Desenvolvedor | Web Designer | Entusiasta de Tecnologia</h3>
 
 <p align="center">
-  📍 Martinho Campos - MG | 🇧🇷 Brasil<br>
-  🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
-  🎨 Certificado em Web Design pela Origamid
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=📍+Martinho+Campos+-+MG+%7C+🇧🇷+Brasil;🎓+Formado+em+Análise+e+Desenvolvimento;🎨+Web+Designer+Certificado" alt="Typing animation" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
+
+![gif](https://i.giphy.com/media/QTfXAAEjD4bTJMu16K/giphy.webp)
 
 - 🧠 21 anos, apaixonado por tecnologia, design e inovação
 - 🔍 Experiência em análise e monitoramento de redes
@@ -22,19 +22,21 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Tecnologias e Ferramentas
 
-### 👨‍💻 Linguagens & Desenvolvimento
+![gif](https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp)
+
+### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 📱 Mobile
+### 📱 Desenvolvimento Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🌐 Web
+### 🌐 Desenvolvimento Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,22 +49,29 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<div align="center">
+  <img src="https://i.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.webp" width="150">
+  
+  <a href="https://github.com/WebSun-DEV">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WebSun-DEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebSun-DEV&layout=compact&langs_count=7&theme=dracula&hide=procfile"/>
+  </a>
+</div>
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://i.giphy.com/media/3o7TKsQ8UQ3XhXW5U4/giphy.webp" width="200">
+  
+  <br>
+  <a href="https://www.linkedin.com/in/daniellvithor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.com/users/mineirox">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/mineirox" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
