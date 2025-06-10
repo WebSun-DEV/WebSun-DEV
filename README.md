@@ -49,24 +49,27 @@ https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/WebSun-DEV">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WebSun-DEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebSun-DEV&layout=compact&langs_count=7&theme=dracula&hide=procfile"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WebSun-DEV&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebSun-DEV&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 📫 Contato
+## 📫 Onde me encontrar
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniellvithor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/mineirox" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+<p align="left">
+  <a  href="https://www.linkedin.com/in/daniellvithor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Discord-mineirox.%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WebSun-DEV&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+
+---
