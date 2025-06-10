@@ -1,6 +1,6 @@
 ![Banner](./Banner.png)
 
-<h1 align="center">Olá, eu sou o Daniell! 👋</h1>
+<h1 align="center">E aí, eu sou o Daniell!</h1>
 
 <h3 align="center">Desenvolvedor | Web Designer | Entusiasta de Tecnologia</h3>
 
